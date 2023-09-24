@@ -9,7 +9,7 @@ This is the README file for the "Search" project, which is a front-end implement
 This project is designed to replicate the user interface of Google Search and its related features, including Google Image Search and Google Advanced Search. The project consists of three HTML files: __'index.html'__ for Google Search, __'image.html'__ for Google Image Search, and __'advanced.html'__ for Google Advanced Search.
 
 ## __Demo__
-- Live Site URL: https://www.youtube.com/watch?v=cUexvogzEos
+- Live Site URL: https://anano24.github.io/google-search-project/index.html
 
 
 ## __Project Structure__
